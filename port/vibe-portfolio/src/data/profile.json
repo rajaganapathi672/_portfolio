@@ -1,0 +1,41 @@
+{
+  "name": "Sachin Nandha Sabarish J",
+  "role": "Founder & CEO | Software Engineer | EdTech Trainer",
+  "tagline": "Accelerating tech careers through practical, industry-ready learning.",
+  "bio": "I am a software engineer and EdTech entrepreneur focused on bridging the gap between academia and industry.",
+  "company": {
+    "name": "LearnLogicify Technologies LLP",
+    "platform": "NexAcademy LMS",
+    "slogan": "Accelerate the Tech Career and Build Your Future Faster"
+  },
+  "contact": {
+    "email": "<ADD_EMAIL>",
+    "website": "https://learnlogicify.in",
+    "github": "<ADD_GITHUB>",
+    "linkedin": "<ADD_LINKEDIN>"
+  },
+  "skills": [
+    "Data Structures & Algorithms",
+    "Java",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js"
+  ],
+  "projects": [
+    {
+      "title": "NexAcademy LMS",
+      "description": "A scalable learning and assessment platform.",
+      "tech": [
+        "Next.js",
+        "React",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "github": "<PRIVATE_REPO>",
+      "live": "https://learnlogicify.in"
+    }
+  ]
+}
+
+
